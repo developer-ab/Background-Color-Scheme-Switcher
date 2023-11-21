@@ -1,0 +1,46 @@
+.heading {
+    text-align: center;
+}
+
+.button_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.button {
+    width: 150px;
+    height: 150px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+   
+}
+
+.text {
+    text-align: center;
+    font-size: 20px;
+}
+
+#aqua {
+    background-color: aqua;
+}
+
+#dimgrey {
+    background-color: dimgrey;
+}
+
+#teal{
+    background-color: teal;
+}
+
+#blanchedalmond {
+    background-color:blanchedalmond ;
+}
+
+#pink {
+    background-color: pink;
+}
